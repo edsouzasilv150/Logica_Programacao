@@ -1,0 +1,16 @@
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioCalculoRetangulo\ExercicioCalculoRetangulo\bin\Debug\net5.0\ExercicioCalculoRetangulo.exe
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioCalculoRetangulo\ExercicioCalculoRetangulo\bin\Debug\net5.0\ExercicioCalculoRetangulo.deps.json
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioCalculoRetangulo\ExercicioCalculoRetangulo\bin\Debug\net5.0\ExercicioCalculoRetangulo.runtimeconfig.json
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioCalculoRetangulo\ExercicioCalculoRetangulo\bin\Debug\net5.0\ExercicioCalculoRetangulo.runtimeconfig.dev.json
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioCalculoRetangulo\ExercicioCalculoRetangulo\bin\Debug\net5.0\ExercicioCalculoRetangulo.dll
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioCalculoRetangulo\ExercicioCalculoRetangulo\bin\Debug\net5.0\ref\ExercicioCalculoRetangulo.dll
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioCalculoRetangulo\ExercicioCalculoRetangulo\bin\Debug\net5.0\ExercicioCalculoRetangulo.pdb
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioCalculoRetangulo\ExercicioCalculoRetangulo\obj\Debug\net5.0\ExercicioCalculoRetangulo.csproj.AssemblyReference.cache
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioCalculoRetangulo\ExercicioCalculoRetangulo\obj\Debug\net5.0\ExercicioCalculoRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioCalculoRetangulo\ExercicioCalculoRetangulo\obj\Debug\net5.0\ExercicioCalculoRetangulo.AssemblyInfoInputs.cache
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioCalculoRetangulo\ExercicioCalculoRetangulo\obj\Debug\net5.0\ExercicioCalculoRetangulo.AssemblyInfo.cs
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioCalculoRetangulo\ExercicioCalculoRetangulo\obj\Debug\net5.0\ExercicioCalculoRetangulo.csproj.CoreCompileInputs.cache
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioCalculoRetangulo\ExercicioCalculoRetangulo\obj\Debug\net5.0\ExercicioCalculoRetangulo.dll
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioCalculoRetangulo\ExercicioCalculoRetangulo\obj\Debug\net5.0\ref\ExercicioCalculoRetangulo.dll
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioCalculoRetangulo\ExercicioCalculoRetangulo\obj\Debug\net5.0\ExercicioCalculoRetangulo.pdb
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioCalculoRetangulo\ExercicioCalculoRetangulo\obj\Debug\net5.0\ExercicioCalculoRetangulo.genruntimeconfig.cache
