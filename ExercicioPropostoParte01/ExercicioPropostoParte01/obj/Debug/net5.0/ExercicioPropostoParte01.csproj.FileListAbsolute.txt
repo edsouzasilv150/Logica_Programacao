@@ -1,0 +1,16 @@
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioPropostoParte01\ExercicioPropostoParte01\bin\Debug\net5.0\ExercicioPropostoParte01.exe
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioPropostoParte01\ExercicioPropostoParte01\bin\Debug\net5.0\ExercicioPropostoParte01.deps.json
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioPropostoParte01\ExercicioPropostoParte01\bin\Debug\net5.0\ExercicioPropostoParte01.runtimeconfig.json
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioPropostoParte01\ExercicioPropostoParte01\bin\Debug\net5.0\ExercicioPropostoParte01.runtimeconfig.dev.json
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioPropostoParte01\ExercicioPropostoParte01\bin\Debug\net5.0\ExercicioPropostoParte01.dll
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioPropostoParte01\ExercicioPropostoParte01\bin\Debug\net5.0\ref\ExercicioPropostoParte01.dll
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioPropostoParte01\ExercicioPropostoParte01\bin\Debug\net5.0\ExercicioPropostoParte01.pdb
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioPropostoParte01\ExercicioPropostoParte01\obj\Debug\net5.0\ExercicioPropostoParte01.csproj.AssemblyReference.cache
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioPropostoParte01\ExercicioPropostoParte01\obj\Debug\net5.0\ExercicioPropostoParte01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioPropostoParte01\ExercicioPropostoParte01\obj\Debug\net5.0\ExercicioPropostoParte01.AssemblyInfoInputs.cache
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioPropostoParte01\ExercicioPropostoParte01\obj\Debug\net5.0\ExercicioPropostoParte01.AssemblyInfo.cs
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioPropostoParte01\ExercicioPropostoParte01\obj\Debug\net5.0\ExercicioPropostoParte01.csproj.CoreCompileInputs.cache
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioPropostoParte01\ExercicioPropostoParte01\obj\Debug\net5.0\ExercicioPropostoParte01.dll
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioPropostoParte01\ExercicioPropostoParte01\obj\Debug\net5.0\ref\ExercicioPropostoParte01.dll
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioPropostoParte01\ExercicioPropostoParte01\obj\Debug\net5.0\ExercicioPropostoParte01.pdb
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioPropostoParte01\ExercicioPropostoParte01\obj\Debug\net5.0\ExercicioPropostoParte01.genruntimeconfig.cache

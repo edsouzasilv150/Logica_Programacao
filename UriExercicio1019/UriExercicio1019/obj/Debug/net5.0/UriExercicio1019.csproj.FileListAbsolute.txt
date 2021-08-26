@@ -1,0 +1,16 @@
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1019\UriExercicio1019\bin\Debug\net5.0\UriExercicio1019.exe
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1019\UriExercicio1019\bin\Debug\net5.0\UriExercicio1019.deps.json
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1019\UriExercicio1019\bin\Debug\net5.0\UriExercicio1019.runtimeconfig.json
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1019\UriExercicio1019\bin\Debug\net5.0\UriExercicio1019.runtimeconfig.dev.json
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1019\UriExercicio1019\bin\Debug\net5.0\UriExercicio1019.dll
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1019\UriExercicio1019\bin\Debug\net5.0\ref\UriExercicio1019.dll
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1019\UriExercicio1019\bin\Debug\net5.0\UriExercicio1019.pdb
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1019\UriExercicio1019\obj\Debug\net5.0\UriExercicio1019.csproj.AssemblyReference.cache
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1019\UriExercicio1019\obj\Debug\net5.0\UriExercicio1019.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1019\UriExercicio1019\obj\Debug\net5.0\UriExercicio1019.AssemblyInfoInputs.cache
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1019\UriExercicio1019\obj\Debug\net5.0\UriExercicio1019.AssemblyInfo.cs
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1019\UriExercicio1019\obj\Debug\net5.0\UriExercicio1019.csproj.CoreCompileInputs.cache
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1019\UriExercicio1019\obj\Debug\net5.0\UriExercicio1019.dll
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1019\UriExercicio1019\obj\Debug\net5.0\ref\UriExercicio1019.dll
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1019\UriExercicio1019\obj\Debug\net5.0\UriExercicio1019.pdb
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1019\UriExercicio1019\obj\Debug\net5.0\UriExercicio1019.genruntimeconfig.cache

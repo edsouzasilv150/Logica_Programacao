@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UriExercicio1001/1.0.0": {
+        "runtime": {
+          "UriExercicio1001.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UriExercicio1001/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

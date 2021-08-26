@@ -1,0 +1,15 @@
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1003\UriExercicio1003\bin\Debug\net5.0\UriExercicio1003.exe
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1003\UriExercicio1003\bin\Debug\net5.0\UriExercicio1003.deps.json
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1003\UriExercicio1003\bin\Debug\net5.0\UriExercicio1003.runtimeconfig.json
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1003\UriExercicio1003\bin\Debug\net5.0\UriExercicio1003.runtimeconfig.dev.json
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1003\UriExercicio1003\bin\Debug\net5.0\UriExercicio1003.dll
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1003\UriExercicio1003\bin\Debug\net5.0\ref\UriExercicio1003.dll
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1003\UriExercicio1003\bin\Debug\net5.0\UriExercicio1003.pdb
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1003\UriExercicio1003\obj\Debug\net5.0\UriExercicio1003.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1003\UriExercicio1003\obj\Debug\net5.0\UriExercicio1003.AssemblyInfoInputs.cache
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1003\UriExercicio1003\obj\Debug\net5.0\UriExercicio1003.AssemblyInfo.cs
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1003\UriExercicio1003\obj\Debug\net5.0\UriExercicio1003.csproj.CoreCompileInputs.cache
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1003\UriExercicio1003\obj\Debug\net5.0\UriExercicio1003.dll
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1003\UriExercicio1003\obj\Debug\net5.0\ref\UriExercicio1003.dll
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1003\UriExercicio1003\obj\Debug\net5.0\UriExercicio1003.pdb
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\UriExercicio1003\UriExercicio1003\obj\Debug\net5.0\UriExercicio1003.genruntimeconfig.cache
