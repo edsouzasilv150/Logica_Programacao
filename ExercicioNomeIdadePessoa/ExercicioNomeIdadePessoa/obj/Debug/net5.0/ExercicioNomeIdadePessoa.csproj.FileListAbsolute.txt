@@ -1,0 +1,16 @@
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioNomeIdadePessoa\ExercicioNomeIdadePessoa\bin\Debug\net5.0\ExercicioNomeIdadePessoa.exe
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioNomeIdadePessoa\ExercicioNomeIdadePessoa\bin\Debug\net5.0\ExercicioNomeIdadePessoa.deps.json
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioNomeIdadePessoa\ExercicioNomeIdadePessoa\bin\Debug\net5.0\ExercicioNomeIdadePessoa.runtimeconfig.json
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioNomeIdadePessoa\ExercicioNomeIdadePessoa\bin\Debug\net5.0\ExercicioNomeIdadePessoa.runtimeconfig.dev.json
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioNomeIdadePessoa\ExercicioNomeIdadePessoa\bin\Debug\net5.0\ExercicioNomeIdadePessoa.dll
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioNomeIdadePessoa\ExercicioNomeIdadePessoa\bin\Debug\net5.0\ref\ExercicioNomeIdadePessoa.dll
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioNomeIdadePessoa\ExercicioNomeIdadePessoa\bin\Debug\net5.0\ExercicioNomeIdadePessoa.pdb
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioNomeIdadePessoa\ExercicioNomeIdadePessoa\obj\Debug\net5.0\ExercicioNomeIdadePessoa.csproj.AssemblyReference.cache
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioNomeIdadePessoa\ExercicioNomeIdadePessoa\obj\Debug\net5.0\ExercicioNomeIdadePessoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioNomeIdadePessoa\ExercicioNomeIdadePessoa\obj\Debug\net5.0\ExercicioNomeIdadePessoa.AssemblyInfoInputs.cache
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioNomeIdadePessoa\ExercicioNomeIdadePessoa\obj\Debug\net5.0\ExercicioNomeIdadePessoa.AssemblyInfo.cs
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioNomeIdadePessoa\ExercicioNomeIdadePessoa\obj\Debug\net5.0\ExercicioNomeIdadePessoa.csproj.CoreCompileInputs.cache
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioNomeIdadePessoa\ExercicioNomeIdadePessoa\obj\Debug\net5.0\ExercicioNomeIdadePessoa.dll
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioNomeIdadePessoa\ExercicioNomeIdadePessoa\obj\Debug\net5.0\ref\ExercicioNomeIdadePessoa.dll
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioNomeIdadePessoa\ExercicioNomeIdadePessoa\obj\Debug\net5.0\ExercicioNomeIdadePessoa.pdb
+D:\Curso CSharp\Lógica Programação\03-Mod\Exercícios\ExercicioNomeIdadePessoa\ExercicioNomeIdadePessoa\obj\Debug\net5.0\ExercicioNomeIdadePessoa.genruntimeconfig.cache
